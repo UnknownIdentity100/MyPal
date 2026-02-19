@@ -1,0 +1,11 @@
+.mypal-header { background: #f0f7fb; border-radius: 12px; margin: 16px auto 16px auto; padding: 16px 24px 12px 24px; box-shadow: 0 2px 12px #beccdd3d; display: flex; align-items: center; justify-content: space-between; }
+.mypal-header-title { color: #1e90ff; font-size: 1.5em; font-weight: 900; letter-spacing: 0.01em; }
+.mypal-card { background: #fff; border-radius: 10px; box-shadow: 0 2px 12px #d0deec4d; margin: 16px auto; padding: 18px 26px; max-width: 550px; transition: box-shadow .2s; }
+.mypal-input { padding: 8px 13px; border: 1px solid #cddbe9; border-radius: 6px; outline: none; margin: 4px 0; font-size: 15px; }
+.mypal-btn { padding: 8px 16px; background: #1e90ff; color: #fff; border: none; border-radius: 7px; font-weight: 600; margin: 2px; cursor: pointer; transition: background .1s; }
+.mypal-btn:hover { background: #006ad1; }
+.mypal-divider { border-bottom: 1px solid #c8d3e1; margin: 18px 0; }
+.mypal-red { color: #d3001f; }
+.mypal-error { background: #ffdbe7; color: #c80038; border-radius: 7px; padding: 10px 18px; margin: 10px 0; display: flex; justify-content: space-between; align-items: center; }
+.mypal-login-bg { min-height: 100vh; background: linear-gradient(to top right, #d7e9fc 0%, #f6fafd 55%, #e2e4eb 100%); display: flex; align-items: center; justify-content: center; }
+.mypal-logout-btn { background: #fcfcfc; color: #1e90ff; border: 1px solid #c7e2ff; border-radius: 8px; margin-left: 20px; font-weight: 500; cursor: pointer; padding: 7px 18px; }
